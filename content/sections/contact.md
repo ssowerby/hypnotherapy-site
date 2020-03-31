@@ -6,7 +6,7 @@ title: Contact
 <div class="col-md-6 mb-2">
 
 <div>
-Tel: <a href="tel:07783-672965">07783 672965</a> 
+Tel: <a href="tel:+447956-341263">07956 341263</a>
 </div>
 <div>
 Email: <a href="mailto:rachel@naturallyuhypnosis.co.uk">rachel@naturallyuhypnosis.co.uk</a>
